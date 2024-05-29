@@ -1,0 +1,15 @@
+D:\Code\BookingRestaurant\BookingRestaurant\bin\Debug\BookingRestaurant.exe.config
+D:\Code\BookingRestaurant\BookingRestaurant\bin\Debug\BookingRestaurant.exe
+D:\Code\BookingRestaurant\BookingRestaurant\bin\Debug\BookingRestaurant.pdb
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.csproj.AssemblyReference.cache
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.DSBan.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.Properties.Resources.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.csproj.GenerateResource.cache
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.csproj.CoreCompileInputs.cache
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.exe
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.pdb
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.GiaoDienBan.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.Dang_Ky.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.Dang_Nhap.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.HuyBan.resources
+D:\Code\BookingRestaurant\BookingRestaurant\obj\Debug\BookingRestaurant.FrmAdmin.resources
